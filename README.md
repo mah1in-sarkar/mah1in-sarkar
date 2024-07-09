@@ -5,14 +5,9 @@
 ## About Me
 I am a passionate WordPress Web Developer with expertise in creating custom UI and UX designs. I specialize in transforming ideas into fully functional, aesthetically pleasing websites tailored to meet the unique needs of each client.
 
-
-
-
-
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300"/>
-
 ## Skills
 - WordPress Development
+    <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300"/>
 - WooCommerce Integration
 - Custom UI/UX Design
 - Progressive Web Apps (PWA)
