@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mahin Sarkar
 
-<!--
-**mah1in-sarkar/mah1in-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20%20(1).png)
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate WordPress Web Developer with expertise in creating custom UI and UX designs. I specialize in transforming ideas into fully functional, aesthetically pleasing websites tailored to meet the unique needs of each client.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- WordPress Development
+- WooCommerce Integration
+- Custom UI/UX Design
+- Progressive Web Apps (PWA)
+- JavaScript
+- HTML/CSS
+
+## Projects
+- [AI Technology and Services Website](https://github.com/mahin-sarkar/ai-website)
+- [E-commerce Platform](https://github.com/mahin-sarkar/ecommerce-platform)
+
+## Contact
+- [Email](mahindseo@gmail.com)
+- [Instagram](https://www.instagram.com/mahindseo/)
+- [Twitter](https://twitter.com/SEODESIGN4)
+
+Feel free to reach out if you have any questions or would like to discuss a project!
