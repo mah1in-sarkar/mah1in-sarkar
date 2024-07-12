@@ -15,9 +15,6 @@ I am a passionate WordPress Web Developer with expertise in creating custom UI a
 - HTML/CSS
 
 ## Projects
-<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/shopup_com__.jpg"/>
-<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/bdshop_com__.jpg" />
-<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/jpeg-optimizer_www_casio_com__in_-0.jpg"/>
 - [AI Technology and Services Website](https://github.com/mahin-sarkar/ai-website)
 - [E-commerce Platform](https://github.com/mahin-sarkar/ecommerce-platform)
 
@@ -27,3 +24,7 @@ I am a passionate WordPress Web Developer with expertise in creating custom UI a
 - [Twitter](https://twitter.com/SEODESIGN4)
 
 Feel free to reach out if you have any questions or would like to discuss a project!
+## Demo Project 
+<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/shopup_com__.jpg"/>
+<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/bdshop_com__.jpg" />
+<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/jpeg-optimizer_www_casio_com__in_-0.jpg"/>
