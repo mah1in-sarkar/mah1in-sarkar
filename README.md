@@ -27,4 +27,4 @@ Feel free to reach out if you have any questions or would like to discuss a proj
 ## Demo Project 
 <img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/shopup_com__.jpg"/>
 <img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/bdshop_com__.jpg" />
-<img  src="https://github.com/mah1in-sarkar/mah1in-sarkar/blob/main/jpeg-optimizer_www_casio_com__in_-0.jpg"/>
+
